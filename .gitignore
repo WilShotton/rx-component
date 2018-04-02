@@ -1,0 +1,13 @@
+bower_components
+node_modules
+npm-debug.log
+/metrics/*
+/docs/*
+/build
+/dist
+.idea
+*.iml
+*.jar
+*.log
+.DS_Store
+jest.json
